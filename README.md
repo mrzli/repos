@@ -2,10 +2,6 @@
 
 ## Relevant
 
-### GitHub
-
-- [mrzli.github.io](https://github.com/mrzli/mrzli.github.io)
-
 ### Docs
 
 - [docs](https://github.com/mrzli/docs)
@@ -23,6 +19,7 @@
 
 ### Sites
 
+- [mrzli.github.io](https://github.com/mrzli/mrzli.github.io)
 - [gm-trading](https://github.com/mrzli/gm-trading)
 - [gm-site](https://github.com/mrzli/gm-site)
 
