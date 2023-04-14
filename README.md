@@ -4,27 +4,27 @@
 
 ### GitHub
 
-- [mrzli.github.io](https://gihub.com/mrzli/mrzli.github.io)
+- [mrzli.github.io](https://github.com/mrzli/mrzli.github.io)
 
 ### Docs
 
-- [docs](https://gihub.com/mrzli/docs)
-- [docs-creating-js-libs](https://gihub.com/mrzli/docs-creating-js-libs)
+- [docs](https://github.com/mrzli/docs)
+- [docs-creating-js-libs](https://github.com/mrzli/docs-creating-js-libs)
 
 ### Tools
 
-- [js-project-generator](https://gihub.com/mrzli/js-project-generator)
-- [gmnx](https://gihub.com/mrzli/gmnx)
+- [js-project-generator](https://github.com/mrzli/js-project-generator)
+- [gmnx](https://github.com/mrzli/gmnx)
 
 ### Libs
 
-- [gmjs](https://gihub.com/mrzli/gmjs)
-- [date-util](https://gihub.com/mrzli/date-util)
+- [gmjs](https://github.com/mrzli/gmjs)
+- [date-util](https://github.com/mrzli/date-util)
 
 ### Sites
 
-- [gm-trading](https://gihub.com/mrzli/gm-trading)
-- [gm-site](https://gihub.com/mrzli/gm-site)
+- [gm-trading](https://github.com/mrzli/gm-trading)
+- [gm-site](https://github.com/mrzli/gm-site)
 
 ### VSCode Extensions
 
@@ -46,24 +46,24 @@
 
 ## Archived
 
-- [gm-earnings](https://gihub.com/mrzli/gm-earnings)
-- [gh-links](https://gihub.com/mrzli/gh-links)
-- [gm-dance-site](https://gihub.com/mrzli/gm-dance-site)
-- [gm-dance-site-data-converter](https://gihub.com/mrzli/gm-dance-site-data-converter)
+- [gm-earnings](https://github.com/mrzli/gm-earnings)
+- [gh-links](https://github.com/mrzli/gh-links)
+- [gm-dance-site](https://github.com/mrzli/gm-dance-site)
+- [gm-dance-site-data-converter](https://github.com/mrzli/gm-dance-site-data-converter)
 
 -----
 
-- [gmjs-apps](https://gihub.com/mrzli/gmjs-apps)
-- [gmjs-apps-old](https://gihub.com/mrzli/gmjs-apps-old)
-- [gm-task-tracker-old](https://gihub.com/mrzli/gm-task-tracker-old)
+- [gmjs-apps](https://github.com/mrzli/gmjs-apps)
+- [gmjs-apps-old](https://github.com/mrzli/gmjs-apps-old)
+- [gm-task-tracker-old](https://github.com/mrzli/gm-task-tracker-old)
 
 -----
 
-- [gm-js-libraries](https://gihub.com/mrzli/gm-js-libraries)
-- [gm-js-starter](https://gihub.com/mrzli/gm-js-starter)
+- [gm-js-libraries](https://github.com/mrzli/gm-js-libraries)
+- [gm-js-starter](https://github.com/mrzli/gm-js-starter)
 
 -----
 
-- [gmrkt](https://gihub.com/mrzli/gmrkt)
-- [gmrktcg](https://gihub.com/mrzli/gmrktcg)
-- [python-examples](https://gihub.com/mrzli/python-examples)
+- [gmrkt](https://github.com/mrzli/gmrkt)
+- [gmrktcg](https://github.com/mrzli/gmrktcg)
+- [python-examples](https://github.com/mrzli/python-examples)
