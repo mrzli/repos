@@ -10,14 +10,14 @@
 
 ### Libs
 
+- [eslint-config](https://github.com/mrzli/eslint-config) - ESLint config.
+- [prettier-config](https://github.com/mrzli/prettier-config) - Prettier config.
 - [gmjs](https://github.com/mrzli/gmjs) - Monorepo for JavaScript libs. To be archived later one.
 - [date-util](https://github.com/mrzli/date-util) - Very simple date helpers.
 
 ### Tools
 
 - [js-project-generator](https://github.com/mrzli/js-project-generator) - Generator of JavaScript/TypeScript projects.
-
-- [prettier-config](https://github.com/mrzli/prettier-config) - Prettier config.
 
 ### Sites
 
