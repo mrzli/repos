@@ -5,7 +5,9 @@
 ### Docs
 
 - [repos](https://github.com/mrzli/repos) - This repos list.
+- [links](https://github.com/mrzli/links) - Repo with various links.
 - [docs](https://github.com/mrzli/docs) - Private docs.
+- [instructions](https://github.com/mrzli/instructions) - Instructions for various things.
 - [docs-creating-js-libs](https://github.com/mrzli/docs-creating-js-libs) - Documentation for creating JavaScript libs.
 
 ### Libs
