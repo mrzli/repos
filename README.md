@@ -10,22 +10,40 @@
 - [instructions](https://github.com/mrzli/instructions) - Instructions for various things.
 - [docs-creating-js-libs](https://github.com/mrzli/docs-creating-js-libs) - Documentation for creating JavaScript libs.
 
+---
+
 ### Libs
+
+- [gmjs](https://github.com/mrzli/gmjs) - Monorepo for JavaScript libs. To be archived later one.
+
+#### Util
+
+- [date-util](https://github.com/mrzli/date-util) - Very simple date helpers.
+
+#### File System
+
+- TODO.
+
+#### Static Analysis
 
 - [eslint-config](https://github.com/mrzli/eslint-config) - ESLint config.
 - [prettier-config](https://github.com/mrzli/prettier-config) - Prettier config.
-- [gmjs](https://github.com/mrzli/gmjs) - Monorepo for JavaScript libs. To be archived later one.
-- [date-util](https://github.com/mrzli/date-util) - Very simple date helpers.
+
+---
 
 ### Tools
 
 - [js-project-generator](https://github.com/mrzli/js-project-generator) - Generator of JavaScript/TypeScript projects.
+
+---
 
 ### Sites
 
 - [mrzli.github.io](https://github.com/mrzli/mrzli.github.io) - My personal portfolio and CV site.
 - [gm-trading](https://github.com/mrzli/gm-trading) - Trading automation and strategy tester app (private).
 - [gm-site](https://github.com/mrzli/gm-site) - Rudimentary site with list of habits and some docs, hardcoded in html.
+
+---
 
 ### VSCode Extensions
 
@@ -38,6 +56,8 @@
 - [snippets-nestjs](https://github.com/mrzli-vscode-extensions/snippets-nestjs) - NestJS snippets.
 - [snippets-jest](https://github.com/mrzli-vscode-extensions/snippets-jest) - Jest snippets.
 - [snippets-special](https://github.com/mrzli-vscode-extensions/snippets-special) - Special (specific) snippets, probably of no use to anyone but me.
+
+---
 
 ### GitHub Actions
 
