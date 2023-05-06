@@ -17,18 +17,24 @@
 - [gmjs](https://github.com/mrzli/gmjs) - Monorepo for JavaScript libs. To be archived later one.
 - [cli-wrapper](https://github.com/mrzli/cli-wrapper) - Wrapper for CLI.
 
-#### Util
+#### Shared Util
 
+- [assert](https://github.com/mrzli/assert) - Assert helpers.
 - [date-util](https://github.com/mrzli/date-util) - Very simple date helpers.
 
-#### File System
+#### Frontend Util
 
 - TODO.
 
-#### Static Analysis
+#### Backend Util
+
+- TODO.
+
+#### Development Util
 
 - [eslint-config](https://github.com/mrzli/eslint-config) - ESLint config.
 - [prettier-config](https://github.com/mrzli/prettier-config) - Prettier config.
+- [tsconfig](https://github.com/mrzli/tsconfig) - TypeScript config.
 
 ---
 
