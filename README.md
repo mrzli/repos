@@ -30,6 +30,7 @@
 
 - [fs-shared](https://github.com/mrzli/fs-shared) - Shared code for file system utilities.
 - [fs-async](https://github.com/mrzli/fs-async) - Async file system utilities.
+- [path](https://github.com/mrzli/path) - Path utilities.
 
 #### Development Util
 
