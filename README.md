@@ -32,6 +32,7 @@
 - [fs-async](https://github.com/mrzli/fs-async) - Async file system utilities.
 - [fs-observable](https://github.com/mrzli/fs-observable) - File system utilities employing observable pattern.
 - [path](https://github.com/mrzli/path) - Path utilities.
+- [crypto](https://github.com/mrzli/crypto) - Some crypto utilities.
 
 #### Development Util
 
