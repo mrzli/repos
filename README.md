@@ -22,11 +22,11 @@
 - [assert](https://github.com/mrzli/assert) - Assert helpers.
 - [date-util](https://github.com/mrzli/date-util) - Very simple date helpers.
 
-#### Frontend Util
+#### Browser Util
 
 - TODO.
 
-#### Backend Util
+#### Node Util
 
 - [fs-shared](https://github.com/mrzli/fs-shared) - Shared code for file system utilities.
 - [fs-async](https://github.com/mrzli/fs-async) - Async file system utilities.
