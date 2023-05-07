@@ -8,7 +8,7 @@
 - [links](https://github.com/mrzli/links) - Repo with various links.
 - [docs](https://github.com/mrzli/docs) - Private docs.
 - [instructions](https://github.com/mrzli/instructions) - Instructions for various things.
-- [docs-creating-js-libs](https://github.com/mrzli/docs-creating-js-libs) - Documentation for creating JavaScript libs.
+- [docs-js-development](https://github.com/mrzli/docs-js-development) - Instructions on how to create, publish (etc.) JavaScript projects.
 
 ---
 
@@ -28,7 +28,8 @@
 
 #### Backend Util
 
-- TODO.
+- [fs-shared](https://github.com/mrzli/fs-shared) - Shared code for file system utilities.
+- [fs-async](https://github.com/mrzli/fs-async) - Async file system utilities.
 
 #### Development Util
 
