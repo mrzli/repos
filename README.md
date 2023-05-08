@@ -8,6 +8,10 @@
 - [links](https://github.com/mrzli/links) - Repo with various links.
 - [docs](https://github.com/mrzli/docs) - Private docs.
 - [instructions](https://github.com/mrzli/instructions) - Instructions for various things.
+- [habits](https://github.com/mrzli/habits) - Documents related to my habits.
+
+#### Development
+
 - [docs-js-development](https://github.com/mrzli/docs-js-development) - Instructions on how to create, publish (etc.) JavaScript projects.
 
 ---
@@ -39,6 +43,10 @@
 - [eslint-config](https://github.com/mrzli/eslint-config) - ESLint config.
 - [prettier-config](https://github.com/mrzli/prettier-config) - Prettier config.
 - [tsconfig](https://github.com/mrzli/tsconfig) - TypeScript config.
+
+#### Test Util
+
+- [test-util](https://github.com/mrzli/test-util) - Test utilities.
 
 ---
 
