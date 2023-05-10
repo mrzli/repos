@@ -33,6 +33,7 @@
 #### Node Util
 
 - [fs-shared](https://github.com/mrzli/fs-shared) - Shared code for file system utilities.
+- [fs-sync](https://github.com/mrzli/fs-sync) - Sync file system utilities.
 - [fs-async](https://github.com/mrzli/fs-async) - Async file system utilities.
 - [fs-observable](https://github.com/mrzli/fs-observable) - File system utilities employing observable pattern.
 - [path](https://github.com/mrzli/path) - Path utilities.
