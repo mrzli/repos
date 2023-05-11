@@ -53,6 +53,7 @@
 
 ### Tools
 
+- [js-project-generator-cli](https://github.com/mrzli/js-project-generator-cli) - CLI for JavaScript/TypeScript project generator.
 - [js-project-generator](https://github.com/mrzli/js-project-generator) - Generator of JavaScript/TypeScript projects.
 
 ---
@@ -84,9 +85,11 @@
 - [publish-vscode-extension](https://github.com/mrzli-gh-actions/publish-vscode-extension) - Publish VSCode extension to the marketplace.
 - [deploy-to-surge](https://github.com/mrzli-gh-actions/deploy-to-surge) - Deploy to [Surge](https://surge.sh).
 
------
------
------
+---
+
+---
+
+---
 
 ## Archived
 
