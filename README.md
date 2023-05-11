@@ -18,7 +18,7 @@
 
 ### Libs
 
-- [gmjs](https://github.com/mrzli/gmjs) - Monorepo for JavaScript libs. To be archived later one.
+- [gmjs](https://github.com/mrzli/gmjs) - Monorepo for JavaScript libs. To be archived later on.
 - [cli-wrapper](https://github.com/mrzli/cli-wrapper) - Wrapper for CLI.
 
 #### Shared Util
