@@ -38,6 +38,7 @@
 - [fs-observable](https://github.com/mrzli/fs-observable) - File system utilities employing observable pattern.
 - [path](https://github.com/mrzli/path) - Path utilities.
 - [crypto](https://github.com/mrzli/crypto) - Some crypto utilities.
+- [package-json](https://github.com/mrzli/package-json) - Utilities for reading package json.
 
 #### Development Util
 
