@@ -44,6 +44,7 @@
 
 - [eslint-config](https://github.com/mrzli/eslint-config) - ESLint config.
 - [prettier-config](https://github.com/mrzli/prettier-config) - Prettier config.
+- [jest-config](https://github.com/mrzli/jest-config) - Jest config.
 - [tsconfig](https://github.com/mrzli/tsconfig) - TypeScript config.
 
 #### Test Util
