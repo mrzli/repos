@@ -37,6 +37,7 @@
 - [fs-async](https://github.com/mrzli/fs-async) - Async file system utilities.
 - [fs-observable](https://github.com/mrzli/fs-observable) - File system utilities employing observable pattern.
 - [path](https://github.com/mrzli/path) - Path utilities.
+- [exec-observable](https://github.com/mrzli/exec-observable) - Exec utilities employing observable pattern.
 - [crypto](https://github.com/mrzli/crypto) - Some crypto utilities.
 - [package-json](https://github.com/mrzli/package-json) - Utilities for reading package json.
 
