@@ -18,9 +18,6 @@
 
 ### Libs
 
-- [gmjs](https://github.com/mrzli/gmjs) - Monorepo for JavaScript libs. To be archived later on.
-- [cli-wrapper](https://github.com/mrzli/cli-wrapper) - Wrapper for CLI.
-
 #### Shared Util
 
 - [assert](https://github.com/mrzli/assert) - Assert helpers.
@@ -56,8 +53,14 @@
 
 ### Tools
 
+- [cli-wrapper](https://github.com/mrzli/cli-wrapper) - Wrapper for CLI.
 - [js-project-generator-cli](https://github.com/mrzli/js-project-generator-cli) - CLI for JavaScript/TypeScript project generator.
 - [js-project-generator](https://github.com/mrzli/js-project-generator) - Generator of JavaScript/TypeScript projects.
+- [npm-publish-cli](https://github.com/mrzli/npm-publish-cli) - CLI for publishing JavaScript/TypeScript projects to npm.
+
+#### Trading
+
+- [trade-breakout-display-cli](https://github.com/mrzli/trade-breakout-display-cli) - CLI for displaying breakout trades.
 
 ---
 
@@ -113,6 +116,7 @@
 
 - [gm-js-libraries](https://github.com/mrzli/gm-js-libraries)
 - [gm-js-starter](https://github.com/mrzli/gm-js-starter)
+- [gmjs](https://github.com/mrzli/gmjs) - Monorepo for JavaScript libs. To be archived later on.
 - [gmnx](https://github.com/mrzli/gmnx)
 - [lint](https://github.com/mrzli/lint) - ESLint and Prettier wrapper, to reduce the amount of config files and direct dependencies.
 
