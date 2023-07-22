@@ -30,10 +30,11 @@
 - [compose-function](https://github.com/mrzli/compose-function) - Function composition.
 - [value-transformers](https://github.com/mrzli/value-transformers) - Value transformers.
 - [value-generators](https://github.com/mrzli/value-generators) - Value generators.
-
-
+- [data-container-util](https://github.com/mrzli/data-container-util) - Utilities for working with data containers such as `Map` and `Set`.
+- [array-sort](https://github.com/mrzli/array-sort) - Utilities for sorting arrays.
+- [array-create](https://github.com/mrzli/array-create) - Utilities for sorting arrays.
+- [array-transformers](https://github.com/mrzli/array-transformers) - Utilities for transforming arrays.
 - [date-util](https://github.com/mrzli/date-util) - Very simple date helpers.
-
 
 #### Browser Util
 
