@@ -26,7 +26,7 @@
 - [nullish-checks](https://github.com/mrzli/nullish-checks) - Nullish/non-nullish checks.
 - [number-util](https://github.com/mrzli/number-util) - Number util functions.
 - [generic-functions](https://github.com/mrzli/generic-functions) - Generic functions.
-- [apply-fn](https://github.com/mrzli/apply-fn) - Function for applying transformation to a value.
+- [apply-function](https://github.com/mrzli/apply-function) - Function for applying transformation to a value.
 - [compose-function](https://github.com/mrzli/compose-function) - Function composition.
 - [value-transformers](https://github.com/mrzli/value-transformers) - Value transformers.
 - [value-generators](https://github.com/mrzli/value-generators) - Value generators.
