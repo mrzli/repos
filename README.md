@@ -8,7 +8,7 @@
 - [links](https://github.com/mrzli/links) - Repo with various links.
 - [docs](https://github.com/mrzli/docs) - Private docs.
 - [instructions](https://github.com/mrzli/instructions) - Instructions for various things.
-- [habits](https://github.com/mrzli/habits) - Documents related to my habits.
+- [life](https://github.com/mrzli/life) - Documents related to my life, habits etc.
 
 #### Development
 
