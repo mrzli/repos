@@ -70,6 +70,7 @@
 - [js-project-generator-cli](https://github.com/mrzli/js-project-generator-cli) - CLI for JavaScript/TypeScript project generator.
 - [js-project-generator](https://github.com/mrzli/js-project-generator) - Generator of JavaScript/TypeScript projects.
 - [npm-publish-cli](https://github.com/mrzli/npm-publish-cli) - CLI for publishing JavaScript/TypeScript projects to npm.
+- [td365-tools](https://github.com/mrzli/td365-tools) - Tools for TD365.
 
 #### Trading
 
