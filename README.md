@@ -6,7 +6,7 @@
 
 - [repos](https://github.com/mrzli/repos) - This repos list.
 - [links](https://github.com/mrzli/links) - Repo with various links.
-- [docs](https://github.com/mrzli/docs) - Private docs.
+- **P** [docs](https://github.com/mrzli/docs) - Personal docs.
 - [instructions](https://github.com/mrzli/instructions) - Instructions for various things.
 - [life](https://github.com/mrzli/life) - Documents related to my life, habits etc.
 
@@ -70,19 +70,22 @@
 - [js-project-generator-cli](https://github.com/mrzli/js-project-generator-cli) - CLI for JavaScript/TypeScript project generator.
 - [js-project-generator](https://github.com/mrzli/js-project-generator) - Generator of JavaScript/TypeScript projects.
 - [npm-publish-cli](https://github.com/mrzli/npm-publish-cli) - CLI for publishing JavaScript/TypeScript projects to npm.
-- [td365-tools](https://github.com/mrzli/td365-tools) - Tools for TD365.
-
-#### Trading
-
-- [trade-breakout-display-cli](https://github.com/mrzli/trade-breakout-display-cli) - CLI for displaying breakout trades.
 
 ---
 
 ### Sites
 
 - [mrzli.github.io](https://github.com/mrzli/mrzli.github.io) - My personal portfolio and CV site.
-- [gm-trading](https://github.com/mrzli/gm-trading) - Trading automation and strategy tester app (private).
 - [gm-site](https://github.com/mrzli/gm-site) - Rudimentary site with list of habits and some docs, hardcoded in html.
+
+---
+
+### Trading
+
+- [gm-trading](https://github.com/mrzli/gm-trading) - Trading automation and strategy tester app (private).
+- [td365-tools](https://github.com/mrzli/td365-tools) - Tools for TD365.
+- **P** [td365-data-raw](https://github.com/mrzli/td365-data-raw) - Raw data for TD365.
+- [trade-breakout-display-cli](https://github.com/mrzli/trade-breakout-display-cli) - CLI for displaying breakout trades.
 
 ---
 
