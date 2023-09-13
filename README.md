@@ -9,6 +9,7 @@
 - **P** [docs](https://github.com/mrzli/docs) - Personal docs.
 - [instructions](https://github.com/mrzli/instructions) - Instructions for various things.
 - [life](https://github.com/mrzli/life) - Documents related to my life, habits etc.
+- **P** [life-private](https://github.com/mrzli/life-private) - Private life related documents.
 
 #### Development
 
