@@ -33,7 +33,7 @@
 - [value-generators](https://github.com/mrzli/value-generators) - Value generators.
 - [data-container-util](https://github.com/mrzli/data-container-util) - Utilities for working with data containers such as `Map` and `Set`.
 - [array-sort](https://github.com/mrzli/array-sort) - Utilities for sorting arrays.
-- [array-create](https://github.com/mrzli/array-create) - Utilities for sorting arrays.
+- [array-create](https://github.com/mrzli/array-create) - Utilities for creating arrays.
 - [array-transformers](https://github.com/mrzli/array-transformers) - Utilities for transforming arrays.
 - [date-util](https://github.com/mrzli/date-util) - Very simple date helpers.
 
