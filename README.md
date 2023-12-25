@@ -39,7 +39,7 @@
 
 #### Browser Util
 
-- TODO.
+- [browser-storage](https://github.com/mrzli/browser-storage) - Browser storage wrappers (for cookies, local storage, session storage, etc).
 
 #### Node Util
 
