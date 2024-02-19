@@ -8,8 +8,9 @@
 - [links](https://github.com/mrzli/links) - Repo with various links.
 - **P** [docs](https://github.com/mrzli/docs) - Personal docs.
 - [instructions](https://github.com/mrzli/instructions) - Instructions for various things.
-- [life](https://github.com/mrzli/life) - Documents related to my life, habits etc.
+- **P** [life](https://github.com/mrzli/life) - Documents related to my life, habits etc.
 - **P** [life-private](https://github.com/mrzli/life-private) - Private life related documents.
+- **P** [trading-docs](https://github.com/mrzli/trading-docs) - Trading documents.
 
 #### Development
 
