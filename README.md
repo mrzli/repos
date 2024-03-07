@@ -84,11 +84,7 @@
 
 ### Trading
 
-- **P** [gm-trading-old](https://github.com/mrzli/gm-trading-old) - Trading automation and strategy tester app (private).
-- **P** [gm-trading-fe](https://github.com/mrzli/gm-trading-fe) - Trade testing app (frontend).
-- **P** [gm-trading-be](https://github.com/mrzli/gm-trading-be) - Trade testing app (backend).
-- **P** [gm-trading-cli](https://github.com/mrzli/gm-trading-cli) - CLI for Trade testing app.
-- **P** [gm-trading-shared](https://github.com/mrzli/gm-trading-shared) - Shared code for trade testing app.
+- **P** [gm-trading](https://github.com/mrzli/gm-trading) - Trading automation and strategy tester app.
 - [td365-tools](https://github.com/mrzli/td365-tools) - Tools for TD365.
 - **P** [td365-data-raw](https://github.com/mrzli/td365-data-raw) - Raw data for TD365.
 - [trade-breakout-display-cli](https://github.com/mrzli/trade-breakout-display-cli) - CLI for displaying breakout trades.
@@ -134,6 +130,11 @@
 - [gmjs-apps](https://github.com/mrzli/gmjs-apps)
 - [gmjs-apps-old](https://github.com/mrzli/gmjs-apps-old)
 - [gm-task-tracker-old](https://github.com/mrzli/gm-task-tracker-old)
+- **P** [gm-trading-old](https://github.com/mrzli/gm-trading-old) - Trading automation and strategy tester app (private).
+- **P** [gm-trading-fe](https://github.com/mrzli/gm-trading-fe) - Trade testing app (frontend).
+- **P** [gm-trading-be](https://github.com/mrzli/gm-trading-be) - Trade testing app (backend).
+- **P** [gm-trading-cli](https://github.com/mrzli/gm-trading-cli) - CLI for Trade testing app.
+- **P** [gm-trading-shared](https://github.com/mrzli/gm-trading-shared) - Shared code for trade testing app.
 
 ### Libs / Tools
 
