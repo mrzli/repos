@@ -85,10 +85,12 @@
 ### Trading
 
 - **P** [gm-trading](https://github.com/mrzli/gm-trading) - Trading automation and strategy tester app.
+- **P** [trading-data-server](https://github.com/mrzli/trading-data-server) - Server for serving trading data.
 - **P** [trading-tools](https://github.com/mrzli/trading-tools) - Tools for trading.
 - **P** [td365-data-raw](https://github.com/mrzli/td365-data-raw) - Raw data for TD365.
 - **P** [trading-general-data](https://github.com/mrzli/trading-general-data) - Various non-ticker data used for trading.
 - [trade-breakout-display-cli](https://github.com/mrzli/trade-breakout-display-cli) - CLI for displaying breakout trades.
+- [trading-chart](https://github.com/mrzli/trading-chart) - Candle chart component.
 
 ---
 
