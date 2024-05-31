@@ -44,10 +44,7 @@
 
 #### Node Util
 
-- [fs-shared](https://github.com/mrzli/fs-shared) - Shared code for file system utilities.
-- [fs-sync](https://github.com/mrzli/fs-sync) - Sync file system utilities.
-- [fs-async](https://github.com/mrzli/fs-async) - Async file system utilities.
-- [fs-observable](https://github.com/mrzli/fs-observable) - File system utilities employing observable pattern.
+- [file-system](https://github.com/mrzli/file-system) - File system utilities.
 - [path](https://github.com/mrzli/path) - Path utilities.
 - [exec-observable](https://github.com/mrzli/exec-observable) - Exec utilities employing observable pattern.
 - [crypto](https://github.com/mrzli/crypto) - Some crypto utilities.
@@ -145,6 +142,10 @@
 - [gmjs](https://github.com/mrzli/gmjs) - Monorepo for JavaScript libs. To be archived later on.
 - [gmnx](https://github.com/mrzli/gmnx)
 - [lint](https://github.com/mrzli/lint) - ESLint and Prettier wrapper, to reduce the amount of config files and direct dependencies.
+- [fs-shared](https://github.com/mrzli/fs-shared) - Shared code for file system utilities.
+- [fs-sync](https://github.com/mrzli/fs-sync) - Sync file system utilities.
+- [fs-async](https://github.com/mrzli/fs-async) - Async file system utilities.
+- [fs-observable](https://github.com/mrzli/fs-observable) - File system utilities employing observable pattern.
 
 ### Other Languages
 
