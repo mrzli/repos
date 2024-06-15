@@ -37,6 +37,7 @@
 - [array-create](https://github.com/mrzli/array-create) - Utilities for creating arrays.
 - [array-transformers](https://github.com/mrzli/array-transformers) - Utilities for transforming arrays.
 - [date-util](https://github.com/mrzli/date-util) - Very simple date helpers.
+- [binary-search](https://github.com/mrzli/binary-search) - Functions for binary search of ordered arrays.
 
 #### Browser Util
 
