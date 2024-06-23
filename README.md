@@ -55,9 +55,6 @@
 #### Development Util
 
 - [eslint-config](https://github.com/mrzli/eslint-config) - ESLint config.
-- [prettier-config](https://github.com/mrzli/prettier-config) - Prettier config.
-- [jest-config](https://github.com/mrzli/jest-config) - Jest config.
-- [tsconfig](https://github.com/mrzli/tsconfig) - TypeScript config.
 
 #### Test Util
 
@@ -150,6 +147,9 @@
 - [fs-sync](https://github.com/mrzli/fs-sync) - Sync file system utilities.
 - [fs-async](https://github.com/mrzli/fs-async) - Async file system utilities.
 - [fs-observable](https://github.com/mrzli/fs-observable) - File system utilities employing observable pattern.
+- [prettier-config](https://github.com/mrzli/prettier-config) - Prettier config.
+- [jest-config](https://github.com/mrzli/jest-config) - Jest config.
+- [tsconfig](https://github.com/mrzli/tsconfig) - TypeScript config.
 
 ### Other Languages
 
