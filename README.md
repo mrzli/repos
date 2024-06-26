@@ -67,7 +67,7 @@
 - [cli-wrapper](https://github.com/mrzli/cli-wrapper) - Wrapper for CLI.
 - [js-project-generator-cli](https://github.com/mrzli/js-project-generator-cli) - CLI for JavaScript/TypeScript project generator.
 - [js-project-generator](https://github.com/mrzli/js-project-generator) - Generator of JavaScript/TypeScript projects.
-- [npm-publish-cli](https://github.com/mrzli/npm-publish-cli) - CLI for publishing JavaScript/TypeScript projects to npm.
+- [pnpm-publish-cli](https://github.com/mrzli/pnpm-publish-cli) - CLI for publishing JavaScript/TypeScript projects to NPM using PNPM package manager.
 
 ---
 
@@ -150,6 +150,7 @@
 - [prettier-config](https://github.com/mrzli/prettier-config) - Prettier config.
 - [jest-config](https://github.com/mrzli/jest-config) - Jest config.
 - [tsconfig](https://github.com/mrzli/tsconfig) - TypeScript config.
+- [npm-publish-cli](https://github.com/mrzli/npm-publish-cli) - CLI for publishing JavaScript/TypeScript projects to npm.
 
 ### Other Languages
 
