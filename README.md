@@ -119,9 +119,6 @@
 
 ### Org ('mrzli-other')
 
-- **P** [booster-scripts](https://github.com/mrzli-other/booster-scripts) - _Scripts for booster project._
-- **P** [booster-scripts-monorepo](https://github.com/mrzli-other/booster-scripts-monorepo) - _Scripts for booster project._
-- [docker-containers](https://github.com/mrzli-other/docker-containers) - _Various docker container and compose files_
 - **P** [fs-tools](https://github.com/mrzli-other/fs-tools) - _Various scripts for file conversions._
 
 ---
@@ -184,7 +181,10 @@
 
 ### Org ('mrzli-other')
 
+- **A** **P** [booster-scripts](https://github.com/mrzli-other/booster-scripts) - _Scripts for booster project._
+- **A** **P** [booster-scripts-monorepo](https://github.com/mrzli-other/booster-scripts-monorepo) - _Scripts for booster project._
 - **A** [bvhviewer](https://github.com/mrzli-other/bvhviewer) - _BVH animation viewer._
+- **A** [docker-containers](https://github.com/mrzli-other/docker-containers) - _Various docker container and compose files._
 - **A** [github-actions-test](https://github.com/mrzli-other/github-actions-test) - _Some test github actions._
 - **A** **P** [gk-graveyard-backend-spring](https://github.com/mrzli-other/gk-graveyard-backend-spring) - _GeoKom Graveyard app backend._
 - **A** **P** [gk-graveyard-dtos](https://github.com/mrzli-other/gk-graveyard-dtos) - _GeoKom Graveyard app data transfer objects.._
