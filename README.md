@@ -1,20 +1,22 @@
 # Repos
 
-## Relevant
+## User Repos ('mrzli')
 
 ### Docs
 
-- [repos](https://github.com/mrzli/repos) - This repos list.
-- [links](https://github.com/mrzli/links) - Repo with various links.
-- **P** [docs](https://github.com/mrzli/docs) - Personal docs.
-- [instructions](https://github.com/mrzli/instructions) - Instructions for various things.
-- **P** [life](https://github.com/mrzli/life) - Documents related to my life, habits etc.
-- **P** [life-private](https://github.com/mrzli/life-private) - Private life related documents.
-- **P** [trading-docs](https://github.com/mrzli/trading-docs) - Trading documents.
+#### Generic
+
+- **P** [docs](https://github.com/mrzli/docs) - _Generic documents._
+- [instructions](https://github.com/mrzli/instructions) - _Generic instructions._
+- **P** [life](https://github.com/mrzli/life) - _My personal habit contracts._
+- **P** [life-private](https://github.com/mrzli/life-private) - _Private life things._
+- [links](https://github.com/mrzli/links) - _Various links._
+- [repos](https://github.com/mrzli/repos) - _Links to my repos._
+- **P** [trading-docs](https://github.com/mrzli/trading-docs) - _Trading documents._
 
 #### Development
 
-- [docs-js-development](https://github.com/mrzli/docs-js-development) - Instructions on how to create, publish (etc.) JavaScript projects.
+- [docs-js-development](https://github.com/mrzli/docs-js-development) - _Documentation and TODO list for creating js libs._
 
 ---
 
@@ -22,142 +24,177 @@
 
 #### Shared Util
 
-- [assert](https://github.com/mrzli/assert) - Assert helpers.
-- [generic-types](https://github.com/mrzli/generic-types) - Generic types.
-- [type-checks](https://github.com/mrzli/type-checks) - Runtime type checks.
-- [nullish-checks](https://github.com/mrzli/nullish-checks) - Nullish/non-nullish checks.
-- [number-util](https://github.com/mrzli/number-util) - Number util functions.
-- [generic-functions](https://github.com/mrzli/generic-functions) - Generic functions.
-- [apply-function](https://github.com/mrzli/apply-function) - Function for applying transformation to a value.
-- [compose-function](https://github.com/mrzli/compose-function) - Function composition.
-- [value-transformers](https://github.com/mrzli/value-transformers) - Value transformers.
-- [value-generators](https://github.com/mrzli/value-generators) - Value generators.
-- [data-container-util](https://github.com/mrzli/data-container-util) - Utilities for working with data containers such as `Map` and `Set`.
-- [array-sort](https://github.com/mrzli/array-sort) - Utilities for sorting arrays.
-- [array-create](https://github.com/mrzli/array-create) - Utilities for creating arrays.
-- [array-transformers](https://github.com/mrzli/array-transformers) - Utilities for transforming arrays.
-- [date-util](https://github.com/mrzli/date-util) - Very simple date helpers.
-- [comparers](https://github.com/mrzli/comparers) - Comparer functions, usually used for sorting.
-- [binary-search](https://github.com/mrzli/binary-search) - Functions for binary search of ordered arrays.
+- [apply-function](https://github.com/mrzli/apply-function) - _Just a simple function used to apply a transformation (function) to a value._
+- [array-create](https://github.com/mrzli/array-create) - _Utilities to help with creation of arrays with some initial values and length._
+- [array-sort](https://github.com/mrzli/array-sort) - _Utilities to ease sorting of arrays._
+- [array-transformers](https://github.com/mrzli/array-transformers) - _Functions for transforming arrays._
+- [assert](https://github.com/mrzli/assert) - _Assert utils._
+- [binary-search](https://github.com/mrzli/binary-search) - _Binary search._
+- [comparers](https://github.com/mrzli/comparers) - _Comparer functions._
+- [compose-function](https://github.com/mrzli/compose-function) - _A simple utility for function composition._
+- [data-container-util](https://github.com/mrzli/data-container-util) - _Some utilities to be used with Map or Set._
+- [date-util](https://github.com/mrzli/date-util) - _Some date utils._
+- [generic-functions](https://github.com/mrzli/generic-functions) - _Some basic functions to be used at runtime._
+- [generic-types](https://github.com/mrzli/generic-types) - _Generic types._
+- [nullish-checks](https://github.com/mrzli/nullish-checks) - _Nullish checks._
+- [number-util](https://github.com/mrzli/number-util) - _Number utilities._
+- [type-checks](https://github.com/mrzli/type-checks) - _Runtime type checks._
+- [value-generators](https://github.com/mrzli/value-generators) - _Functions (or generators) for generating values, such as sequences._
+- [value-transformers](https://github.com/mrzli/value-transformers) - _Value transformer (function) creators, to be used in value transformation chain._
 
 #### Browser Util
 
-- [browser-storage](https://github.com/mrzli/browser-storage) - Browser storage wrappers (for cookies, local storage, session storage, etc).
+- [browser-storage](https://github.com/mrzli/browser-storage) - _Browser storage wrappers, for cookies, local storage, session storage etc._
 
 #### Node Util
 
-- [file-system](https://github.com/mrzli/file-system) - File system utilities.
-- [path](https://github.com/mrzli/path) - Path utilities.
-- [exec-observable](https://github.com/mrzli/exec-observable) - Exec utilities employing observable pattern.
-- [crypto](https://github.com/mrzli/crypto) - Some crypto utilities.
-- [package-json](https://github.com/mrzli/package-json) - Utilities for reading package json.
+- [crypto](https://github.com/mrzli/crypto) - _Some node crypto helpers._
+- [exec-observable](https://github.com/mrzli/exec-observable) - _Observable wrapper for exec._
+- [file-system](https://github.com/mrzli/file-system) - _File system utilities._
+- [package-json](https://github.com/mrzli/package-json) - _Utilities for reading package json file in a project._
+- [path](https://github.com/mrzli/path) - _Path utilities._
 
 #### Development Util
 
-- [eslint-config](https://github.com/mrzli/eslint-config) - ESLint config.
+- [eslint-config](https://github.com/mrzli/eslint-config) - _ESLint configurations._
 
 #### Test Util
 
-- [test-util](https://github.com/mrzli/test-util) - Test utilities.
+- [test-util](https://github.com/mrzli/test-util) - _Test utilities._
 
 ---
 
 ### Tools
 
-- [cli-wrapper](https://github.com/mrzli/cli-wrapper) - Wrapper for CLI.
-- [js-project-generator-cli](https://github.com/mrzli/js-project-generator-cli) - CLI for JavaScript/TypeScript project generator.
-- [js-project-generator](https://github.com/mrzli/js-project-generator) - Generator of JavaScript/TypeScript projects.
-- [pnpm-publish-cli](https://github.com/mrzli/pnpm-publish-cli) - CLI for publishing JavaScript/TypeScript projects to NPM using PNPM package manager.
+#### <empty>
+
+- [cli-wrapper](https://github.com/mrzli/cli-wrapper) - _CLI wrapper._
+- [github-tools](https://github.com/mrzli/github-tools) - _Tools for working with GitHub API._
+- [js-project-generator](https://github.com/mrzli/js-project-generator) - _JS project generator._
+- [js-project-generator-cli](https://github.com/mrzli/js-project-generator-cli) - _CLI for JS project generator._
+- [pnpm-publish-cli](https://github.com/mrzli/pnpm-publish-cli) - _CLI for publishing NPM package using PNPM._
 
 ---
 
 ### Sites
 
-- [mrzli.github.io](https://github.com/mrzli/mrzli.github.io) - My personal portfolio and CV site.
-- [gm-site](https://github.com/mrzli/gm-site) - Rudimentary site with list of habits and some docs, hardcoded in html.
+#### <empty>
+
+- [gm-site](https://github.com/mrzli/gm-site) - _Personal site._
+- [mrzli.github.io](https://github.com/mrzli/mrzli.github.io) - _My CV site._
 
 ---
 
 ### Trading
 
-- **P** [gm-trading](https://github.com/mrzli/gm-trading) - Trading automation and strategy tester app.
-- **P** [trading-data-server](https://github.com/mrzli/trading-data-server) - Server for serving trading data.
-- **P** [trading-tools](https://github.com/mrzli/trading-tools) - Tools for trading.
-- **P** [td365-data-raw](https://github.com/mrzli/td365-data-raw) - Raw data for TD365.
-- **P** [trading-general-data](https://github.com/mrzli/trading-general-data) - Various non-ticker data used for trading.
-- [trade-breakout-display-cli](https://github.com/mrzli/trade-breakout-display-cli) - CLI for displaying breakout trades.
-- [trading-chart](https://github.com/mrzli/trading-chart) - Candle chart component.
+#### <empty>
+
+- **P** [gm-trading](https://github.com/mrzli/gm-trading) - _UI monorepo._
+- **P** [td365-data-raw](https://github.com/mrzli/td365-data-raw) - _Raw data from TD365._
+- **P** [trading-data-server](https://github.com/mrzli/trading-data-server) - _Server for trading data._
+- **P** [trading-general-data](https://github.com/mrzli/trading-general-data) - _General data for trading._
+- **P** [trading-tools](https://github.com/mrzli/trading-tools) - _Tools used in relation to trading._
 
 ---
 
-### VSCode Extensions
+### Example
 
-- [ep-vscode-tools](https://github.com/mrzli-vscode-extensions/ep-vscode-tools) - VSCode extension pack with generic tools.
-- [ep-js](https://github.com/mrzli-vscode-extensions/ep-js) - VSCode extension pack with JavaScript tools.
-- [ep-snippets-js](https://github.com/mrzli-vscode-extensions/ep-snippets-js) - VSCode extension pack with JavaScript/TypeScript snippets.
-- [snippets-typescript](https://github.com/mrzli-vscode-extensions/snippets-typescript) - Generic TypeScript snippets.
-- [snippets-react](https://github.com/mrzli-vscode-extensions/snippets-react) - React snippets.
-- [snippets-redux-observable](https://github.com/mrzli-vscode-extensions/snippets-redux-observable) - Redux-Observable snippets.
-- [snippets-nestjs](https://github.com/mrzli-vscode-extensions/snippets-nestjs) - NestJS snippets.
-- [snippets-jest](https://github.com/mrzli-vscode-extensions/snippets-jest) - Jest snippets.
-- [snippets-special](https://github.com/mrzli-vscode-extensions/snippets-special) - Special (specific) snippets, probably of no use to anyone but me.
+#### <empty>
 
----
-
-### GitHub Actions
-
-- [publish-vscode-extension](https://github.com/mrzli-gh-actions/publish-vscode-extension) - Publish VSCode extension to the marketplace.
-- [deploy-to-surge](https://github.com/mrzli-gh-actions/deploy-to-surge) - Deploy to [Surge](https://surge.sh).
+- [racket](https://github.com/mrzli/racket) - _Racket examples._
 
 ---
 
 ---
 
+## Org Repos
+
+### Org ('mrzli-gh-actions')
+
+- [calculate-nx-affected-head-base](https://github.com/mrzli-gh-actions/calculate-nx-affected-head-base) - _Github action that calculates commits used for 'nx affected' command._
+- [deploy-to-surge](https://github.com/mrzli-gh-actions/deploy-to-surge) - _Deploy to surge._
+- [publish-vscode-extension](https://github.com/mrzli-gh-actions/publish-vscode-extension) - _Publish a VSCode Extension._
+
 ---
 
-## Archived
+### Org ('mrzli-other')
 
-### Sites
+- **P** [booster-scripts](https://github.com/mrzli-other/booster-scripts) - _Scripts for booster project._
+- **P** [booster-scripts-monorepo](https://github.com/mrzli-other/booster-scripts-monorepo) - _Scripts for booster project._
+- [docker-containers](https://github.com/mrzli-other/docker-containers) - _Various docker container and compose files_
+- **P** [fs-tools](https://github.com/mrzli-other/fs-tools) - _Various scripts for file conversions._
 
-- [gm-earnings](https://github.com/mrzli/gm-earnings)
-- [gh-links](https://github.com/mrzli/gh-links)
-- [gm-dance-site](https://github.com/mrzli/gm-dance-site)
-- [gm-dance-site-data-converter](https://github.com/mrzli/gm-dance-site-data-converter)
+---
 
-### Apps
+### Org ('mrzli-vscode-extensions')
 
-- [gmjs-apps](https://github.com/mrzli/gmjs-apps)
-- [gmjs-apps-old](https://github.com/mrzli/gmjs-apps-old)
-- [gm-task-tracker-old](https://github.com/mrzli/gm-task-tracker-old)
-- **P** [gm-trading-old](https://github.com/mrzli/gm-trading-old) - Trading automation and strategy tester app (private).
-- **P** [gm-trading-fe](https://github.com/mrzli/gm-trading-fe) - Trade testing app (frontend).
-- **P** [gm-trading-be](https://github.com/mrzli/gm-trading-be) - Trade testing app (backend).
-- **P** [gm-trading-cli](https://github.com/mrzli/gm-trading-cli) - CLI for Trade testing app.
-- **P** [gm-trading-shared](https://github.com/mrzli/gm-trading-shared) - Shared code for trade testing app.
-- [td365-tools](https://github.com/mrzli/td365-tools) - Tools for TD365.
+- [ep-js](https://github.com/mrzli-vscode-extensions/ep-js) - _JS Extension Pack._
+- [ep-snippets-js](https://github.com/mrzli-vscode-extensions/ep-snippets-js) - _JS Extension Pack._
+- [ep-vscode-tools](https://github.com/mrzli-vscode-extensions/ep-vscode-tools) - _VSCode Tools Extension Pack._
+- [snippets-jest](https://github.com/mrzli-vscode-extensions/snippets-jest) - _Code snippets for Jest._
+- [snippets-nestjs](https://github.com/mrzli-vscode-extensions/snippets-nestjs) - _Code snippets for NestJS._
+- [snippets-react](https://github.com/mrzli-vscode-extensions/snippets-react) - _Code snippets for React._
+- [snippets-redux-observable](https://github.com/mrzli-vscode-extensions/snippets-redux-observable) - _Code snippets for redux-observable._
+- [snippets-special](https://github.com/mrzli-vscode-extensions/snippets-special) - _Special (specific) code snippets._
+- [snippets-typescript](https://github.com/mrzli-vscode-extensions/snippets-typescript) - _Code snippets for TypeScript._
 
-### Libs / Tools
+---
 
-- [gm-js-libraries](https://github.com/mrzli/gm-js-libraries)
-- [gm-js-starter](https://github.com/mrzli/gm-js-starter)
-- [gmjs](https://github.com/mrzli/gmjs) - Monorepo for JavaScript libs. To be archived later on.
-- [gmnx](https://github.com/mrzli/gmnx)
-- [lint](https://github.com/mrzli/lint) - ESLint and Prettier wrapper, to reduce the amount of config files and direct dependencies.
-- [fs-shared](https://github.com/mrzli/fs-shared) - Shared code for file system utilities.
-- [fs-sync](https://github.com/mrzli/fs-sync) - Sync file system utilities.
-- [fs-async](https://github.com/mrzli/fs-async) - Async file system utilities.
-- [fs-observable](https://github.com/mrzli/fs-observable) - File system utilities employing observable pattern.
-- [prettier-config](https://github.com/mrzli/prettier-config) - Prettier config.
-- [jest-config](https://github.com/mrzli/jest-config) - Jest config.
-- [tsconfig](https://github.com/mrzli/tsconfig) - TypeScript config.
-- [npm-publish-cli](https://github.com/mrzli/npm-publish-cli) - CLI for publishing JavaScript/TypeScript projects to npm.
+---
 
-### Other Languages
+---
 
-- [gmrkt](https://github.com/mrzli/gmrkt)
-- [gmrktcg](https://github.com/mrzli/gmrktcg)
-- [python-examples](https://github.com/mrzli/python-examples)
+## Archived Repos
 
-### GitHub Actions
+### User ('mrzli')
 
-- [calculate-nx-affected-head-base](https://github.com/mrzli-gh-actions/calculate-nx-affected-head-base)
+- **A** [fs-async](https://github.com/mrzli/fs-async) - _Async file system utilities._
+- **A** [fs-observable](https://github.com/mrzli/fs-observable) - _File system utilities employing observable pattern._
+- **A** [fs-shared](https://github.com/mrzli/fs-shared) - _File system util shared code._
+- **A** [fs-sync](https://github.com/mrzli/fs-sync) - _Sync file system utilities._
+- **A** [gm-dance-site](https://github.com/mrzli/gm-dance-site) - _Some dance info for myself._
+- **A** [gm-dance-site-data-converter](https://github.com/mrzli/gm-dance-site-data-converter) - _Data converter for gm-dance-site._
+- **A** [gm-earnings](https://github.com/mrzli/gm-earnings) - _Earnings calculation site._
+- **A** [gm-js-libraries](https://github.com/mrzli/gm-js-libraries) - _Various helper libraries for JS/TS._
+- **A** [gm-js-starter](https://github.com/mrzli/gm-js-starter) - _Tool for creating starter JS/TS projects, using TypeScript AST._
+- **A** [gm-task-tracker-old](https://github.com/mrzli/gm-task-tracker-old) - _Contains 2 versions of task-tracker projects. Very rudimentary. Each is a monorepo. One is React/NestJS, the other React/Express (express in js) app._
+- **A** [gm-trading-be](https://github.com/mrzli/gm-trading-be) - _Backend for trading app, built on NestJS. Able to return ticker data and run strategies._
+- **A** **P** [gm-trading-cli](https://github.com/mrzli/gm-trading-cli) - _CLI for GM Trading project._
+- **A** [gm-trading-fe](https://github.com/mrzli/gm-trading-fe) - _React frontend for a trading app. Able to display ticker data, and trigger running of strategies._
+- **A** **P** [gm-trading-old](https://github.com/mrzli/gm-trading-old) - _Nx monorepo for an older version of a trading app. Allows running of some strategies._
+- **A** **P** [gm-trading-old2](https://github.com/mrzli/gm-trading-old2) - _App for experimenting with trading._
+- **A** **P** [gm-trading-shared](https://github.com/mrzli/gm-trading-shared) - _Shared lib for a trading app, used by gm-trading-fe and gm-trading-be._
+- **A** [gmjs](https://github.com/mrzli/gmjs) - _Various libraries to be used by JS/TS code. Inside Nx monorepo._
+- **A** **P** [gmjs-apps](https://github.com/mrzli/gmjs-apps) - _Mosty a TypeScript code generator app and libraries, using a custom TypeScript node hierarchy and code writers._
+- **A** **P** [gmjs-apps-old](https://github.com/mrzli/gmjs-apps-old) - _Nx monorepo with several stub apps. A gitgraph (git visualizer), another version of task tracker app, and some example apps._
+- **A** [gmnx](https://github.com/mrzli/gmnx) - _Nx plugins, to be used by nx tooling inside other project. This is itself an Nx monorepo._
+- **A** **P** [gmrkt](https://github.com/mrzli/gmrkt) - _Some kind of code generated written in Racket. Just a stub project, very rudimentary._
+- **A** **P** [gmrktcg](https://github.com/mrzli/gmrktcg) - _Web application code generator written in Racket. Again a stub project. Also has shell and Python code._
+- **A** [jest-config](https://github.com/mrzli/jest-config) - _Jest configuration._
+- **A** [npm-publish-cli](https://github.com/mrzli/npm-publish-cli) - _CLI for publishing to npm._
+- **A** [prettier-config](https://github.com/mrzli/prettier-config) - _Prettier config._
+- **A** **P** [python-examples](https://github.com/mrzli/python-examples) - _Various python scripts, related to trading and expenses._
+- **A** [rts](https://github.com/mrzli/rts) - _Some fiddling with trying to make a TypeScript parser in Racket. Only a stub project, not much in it._
+- **A** [td365-tools](https://github.com/mrzli/td365-tools) - _Underlying code for td365 tools cli. This code is now part of trading-tools monorepo._
+- **A** [trade-breakout-display-cli](https://github.com/mrzli/trade-breakout-display-cli) - _Displays breakout results based on data._
+- **A** [trading-chart](https://github.com/mrzli/trading-chart) - _Trading chart implemented on a canvas._
+- **A** [tsconfig](https://github.com/mrzli/tsconfig) - _Base tsconfig to be used by other projects._
+
+---
+
+### Org ('mrzli-other')
+
+- **A** [bvhviewer](https://github.com/mrzli-other/bvhviewer) - _BVH animation viewer._
+- **A** [github-actions-test](https://github.com/mrzli-other/github-actions-test) - _Some test github actions._
+- **A** **P** [gk-graveyard-backend-spring](https://github.com/mrzli-other/gk-graveyard-backend-spring) - _GeoKom Graveyard app backend._
+- **A** **P** [gk-graveyard-dtos](https://github.com/mrzli-other/gk-graveyard-dtos) - _GeoKom Graveyard app data transfer objects.._
+- **A** **P** [gk-graveyard-frontend](https://github.com/mrzli-other/gk-graveyard-frontend) - _GeoKom Graveyard app frontend._
+- **A** **P** [gk-graveyard-frontend-old](https://github.com/mrzli-other/gk-graveyard-frontend-old) - _GeoKom Graveyard app frontend (older Vue version)._
+- **A** **P** [gk-graveyard-parent](https://github.com/mrzli-other/gk-graveyard-parent) - _Just some docker compose scripts and documents for the GeoKom Graveyard project._
+- **A** **P** [gk-graveyard-web](https://github.com/mrzli-other/gk-graveyard-web) - _GeoKom Graveyard app frontend (yet another one)._
+- **A** [hellhopper](https://github.com/mrzli-other/hellhopper) - _A game where player jumps on platforms to go as high as possible without falling (like Doodle Jump)._
+- **A** [interview-booster](https://github.com/mrzli-other/interview-booster) - _Booster interview._
+- **A** [interview-newnew](https://github.com/mrzli-other/interview-newnew) - _NewNew Interview._
+- **A** [interview-photomath](https://github.com/mrzli-other/interview-photomath) - _Photomath interview._
+- **A** [suchyblocks](https://github.com/mrzli-other/suchyblocks) - _Clone of a very famous game for my friend Marija Suchy._
+- **A** [tria](https://github.com/mrzli-other/tria) - _Game similar to Doodle Jump._
