@@ -66,8 +66,6 @@
 
 ### Tools
 
-#### <empty>
-
 - [cli-wrapper](https://github.com/mrzli/cli-wrapper) - _CLI wrapper._
 - [github-tools](https://github.com/mrzli/github-tools) - _Tools for working with GitHub API._
 - [js-project-generator](https://github.com/mrzli/js-project-generator) - _JS project generator._
@@ -78,8 +76,6 @@
 
 ### Sites
 
-#### <empty>
-
 - [gm-site](https://github.com/mrzli/gm-site) - _Personal site._
 - [mrzli.github.io](https://github.com/mrzli/mrzli.github.io) - _My CV site._
 
@@ -87,19 +83,20 @@
 
 ### Trading
 
-#### <empty>
-
 - **P** [gm-trading](https://github.com/mrzli/gm-trading) - _UI monorepo._
 - **P** [td365-data-raw](https://github.com/mrzli/td365-data-raw) - _Raw data from TD365._
 - **P** [trading-data-server](https://github.com/mrzli/trading-data-server) - _Server for trading data._
 - **P** [trading-general-data](https://github.com/mrzli/trading-general-data) - _General data for trading._
-- **P** [trading-tools](https://github.com/mrzli/trading-tools) - _Tools used in relation to trading._
+
+---
+
+### Problems
+
+- [leetcode](https://github.com/mrzli/leetcode) - _Leetcode examples._
 
 ---
 
 ### Example
-
-#### <empty>
 
 - [racket](https://github.com/mrzli/racket) - _Racket examples._
 
@@ -175,6 +172,7 @@
 - **A** [td365-tools](https://github.com/mrzli/td365-tools) - _Underlying code for td365 tools cli. This code is now part of trading-tools monorepo._
 - **A** [trade-breakout-display-cli](https://github.com/mrzli/trade-breakout-display-cli) - _Displays breakout results based on data._
 - **A** [trading-chart](https://github.com/mrzli/trading-chart) - _Trading chart implemented on a canvas._
+- **A** **P** [trading-tools](https://github.com/mrzli/trading-tools) - _Tools used in relation to trading._
 - **A** [tsconfig](https://github.com/mrzli/tsconfig) - _Base tsconfig to be used by other projects._
 
 ---
@@ -196,5 +194,5 @@
 - **A** [interview-booster](https://github.com/mrzli-other/interview-booster) - _Booster interview._
 - **A** [interview-newnew](https://github.com/mrzli-other/interview-newnew) - _NewNew Interview._
 - **A** [interview-photomath](https://github.com/mrzli-other/interview-photomath) - _Photomath interview._
-- **A** [suchyblocks](https://github.com/mrzli-other/suchyblocks) - _Clone of a very famous game for my friend Marija Suchy._
+- **A** [suchyblocks](https://github.com/mrzli-other/suchyblocks) - _Clone of a very famous game._
 - **A** [tria](https://github.com/mrzli-other/tria) - _Game similar to Doodle Jump._
