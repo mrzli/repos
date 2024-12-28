@@ -74,6 +74,13 @@
 
 ---
 
+### Setup
+
+- **P** [dotfiles](https://github.com/mrzli/dotfiles) - _My dotfiles._
+- **P** [machine-setup](https://github.com/mrzli/machine-setup) - _Development machine setup._
+
+---
+
 ### Sites
 
 - [gm-site](https://github.com/mrzli/gm-site) - _Personal site._
@@ -99,6 +106,7 @@
 ### Example
 
 - [racket](https://github.com/mrzli/racket) - _Racket examples._
+- **P** [racket-generator](https://github.com/mrzli/racket-generator) - &lt;NO-DESCRIPTION&gt;
 
 ---
 
@@ -117,6 +125,8 @@
 ### Org ('mrzli-other')
 
 - **P** [fs-tools](https://github.com/mrzli-other/fs-tools) - _Various scripts for file conversions._
+- [interview-gideon-brothers](https://github.com/mrzli-other/interview-gideon-brothers) - &lt;NO-DESCRIPTION&gt;
+- **P** [udemy-python-datasci](https://github.com/mrzli-other/udemy-python-datasci) - &lt;NO-DESCRIPTION&gt;
 
 ---
 
