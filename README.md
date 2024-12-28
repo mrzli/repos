@@ -76,6 +76,7 @@
 
 ### Setup
 
+- **P** [ansible](https://github.com/mrzli/ansible) - _Ansible config._
 - **P** [dotfiles](https://github.com/mrzli/dotfiles) - _My dotfiles._
 - **P** [machine-setup](https://github.com/mrzli/machine-setup) - _Development machine setup._
 
