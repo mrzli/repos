@@ -70,6 +70,7 @@
 - [github-tools](https://github.com/mrzli/github-tools) - _Tools for working with GitHub API._
 - [js-project-generator](https://github.com/mrzli/js-project-generator) - _JS project generator._
 - [js-project-generator-cli](https://github.com/mrzli/js-project-generator-cli) - _CLI for JS project generator._
+- [open-api-tools](https://github.com/mrzli/open-api-tools) - _Tools for dealing with open api schemas._
 - [pnpm-publish-cli](https://github.com/mrzli/pnpm-publish-cli) - _CLI for publishing NPM package using PNPM._
 
 ---
@@ -94,7 +95,9 @@
 - **P** [gm-trading](https://github.com/mrzli/gm-trading) - _UI monorepo._
 - **P** [td365-data-raw](https://github.com/mrzli/td365-data-raw) - _Raw data from TD365._
 - **P** [trading-data-server](https://github.com/mrzli/trading-data-server) - _Server for trading data._
+- **P** [trading-experiments](https://github.com/mrzli/trading-experiments) - _Some scripts used for trading experiments._
 - **P** [trading-general-data](https://github.com/mrzli/trading-general-data) - _General data for trading._
+- **P** [tradingview-data](https://github.com/mrzli/tradingview-data) - _Trading data from TradingView._
 
 ---
 
@@ -106,8 +109,10 @@
 
 ### Example
 
+- **P** [gideon-poc](https://github.com/mrzli/gideon-poc) - _Workspace for POCs for Gideon._
+- [learncpp](https://github.com/mrzli/learncpp) - _Repo for learning cpp._
 - [racket](https://github.com/mrzli/racket) - _Racket examples._
-- **P** [racket-generator](https://github.com/mrzli/racket-generator) - &lt;NO-DESCRIPTION&gt;
+- **P** [racket-generator](https://github.com/mrzli/racket-generator) - _Code generator using racket (stub project for now)._
 
 ---
 
@@ -126,7 +131,6 @@
 ### Org ('mrzli-other')
 
 - **P** [fs-tools](https://github.com/mrzli-other/fs-tools) - _Various scripts for file conversions._
-- [interview-gideon-brothers](https://github.com/mrzli-other/interview-gideon-brothers) - &lt;NO-DESCRIPTION&gt;
 - **P** [udemy-python-datasci](https://github.com/mrzli-other/udemy-python-datasci) - &lt;NO-DESCRIPTION&gt;
 
 ---
@@ -203,6 +207,7 @@
 - **A** **P** [gk-graveyard-web](https://github.com/mrzli-other/gk-graveyard-web) - _GeoKom Graveyard app frontend (yet another one)._
 - **A** [hellhopper](https://github.com/mrzli-other/hellhopper) - _A game where player jumps on platforms to go as high as possible without falling (like Doodle Jump)._
 - **A** [interview-booster](https://github.com/mrzli-other/interview-booster) - _Booster interview._
+- **A** [interview-gideon-brothers](https://github.com/mrzli-other/interview-gideon-brothers) - _Gideon Brothers interview._
 - **A** [interview-newnew](https://github.com/mrzli-other/interview-newnew) - _NewNew Interview._
 - **A** [interview-photomath](https://github.com/mrzli-other/interview-photomath) - _Photomath interview._
 - **A** [suchyblocks](https://github.com/mrzli-other/suchyblocks) - _Clone of a very famous game._
