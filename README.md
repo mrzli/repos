@@ -8,6 +8,7 @@
 
 - **P** [docs](https://github.com/mrzli/docs) - _Generic documents._
 - **P** [generic-docs](https://github.com/mrzli/generic-docs) - &lt;NO-DESCRIPTION&gt;
+- **P** [gm-docs](https://github.com/mrzli/gm-docs) - _Generic documents._
 - [instructions](https://github.com/mrzli/instructions) - _Generic instructions._
 - **P** [life](https://github.com/mrzli/life) - _My personal habit contracts._
 - **P** [life-private](https://github.com/mrzli/life-private) - _Private life things._
@@ -80,7 +81,7 @@
 
 - **P** [ansible](https://github.com/mrzli/ansible) - _Ansible config._
 - **P** [dotfiles](https://github.com/mrzli/dotfiles) - _My dotfiles._
-- **P** [machine-setup](https://github.com/mrzli/machine-setup) - _Development machine setup._
+- [machine-setup](https://github.com/mrzli/machine-setup) - _Development machine setup._
 
 ---
 
