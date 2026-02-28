@@ -80,8 +80,14 @@
 ### Setup
 
 - **P** [ansible](https://github.com/mrzli/ansible) - _Ansible config._
+- [archon](https://github.com/mrzli/archon) - _Development machine setup._
 - **P** [dotfiles](https://github.com/mrzli/dotfiles) - _My dotfiles._
-- [machine-setup](https://github.com/mrzli/machine-setup) - _Development machine setup._
+
+---
+
+### Templates
+
+- [template-react](https://github.com/mrzli/template-react) - _Template for setting up a React project using AI._
 
 ---
 
@@ -95,11 +101,13 @@
 ### Trading
 
 - **P** [gm-trading](https://github.com/mrzli/gm-trading) - _UI monorepo._
-- **P** [td365-data-raw](https://github.com/mrzli/td365-data-raw) - _Raw data from TD365._
 - **P** [trading](https://github.com/mrzli/trading) - _Trading monorepo._
-- **P** [trading-data-server](https://github.com/mrzli/trading-data-server) - _Server for trading data._
+- [trading-chart](https://github.com/mrzli/trading-chart) - _Trading chart._
+- [trading-data-server](https://github.com/mrzli/trading-data-server) - _Server for trading data._
 - **P** [trading-experiments](https://github.com/mrzli/trading-experiments) - _Some scripts used for trading experiments._
+- [trading-fetch-eodhd](https://github.com/mrzli/trading-fetch-eodhd) - _Fetch trading data from EODHD._
 - **P** [trading-general-data](https://github.com/mrzli/trading-general-data) - _General data for trading._
+- [trading-web](https://github.com/mrzli/trading-web) - _Frontend for trading._
 - **P** [tradingview-data](https://github.com/mrzli/tradingview-data) - _Trading data from TradingView._
 
 ---
@@ -188,9 +196,10 @@
 - **A** [prettier-config](https://github.com/mrzli/prettier-config) - _Prettier config._
 - **A** **P** [python-examples](https://github.com/mrzli/python-examples) - _Various python scripts, related to trading and expenses._
 - **A** [rts](https://github.com/mrzli/rts) - _Some fiddling with trying to make a TypeScript parser in Racket. Only a stub project, not much in it._
+- **A** **P** [td365-data-raw](https://github.com/mrzli/td365-data-raw) - _Raw data from TD365._
 - **A** [td365-tools](https://github.com/mrzli/td365-tools) - _Underlying code for td365 tools cli. This code is now part of trading-tools monorepo._
 - **A** [trade-breakout-display-cli](https://github.com/mrzli/trade-breakout-display-cli) - _Displays breakout results based on data._
-- **A** [trading-chart](https://github.com/mrzli/trading-chart) - _Trading chart implemented on a canvas._
+- **A** **P** [trading-data-server-old](https://github.com/mrzli/trading-data-server-old) - _Server for trading data._
 - **A** **P** [trading-tools-old](https://github.com/mrzli/trading-tools-old) - _Tools used in relation to trading._
 - **A** **P** [trading-tools-old2](https://github.com/mrzli/trading-tools-old2) - _Various tools for trading_
 - **A** [tsconfig](https://github.com/mrzli/tsconfig) - _Base tsconfig to be used by other projects._
@@ -216,4 +225,5 @@
 - **A** [interview-newnew](https://github.com/mrzli-other/interview-newnew) - _NewNew Interview._
 - **A** [interview-photomath](https://github.com/mrzli-other/interview-photomath) - _Photomath interview._
 - **A** [suchyblocks](https://github.com/mrzli-other/suchyblocks) - _Clone of a very famous game._
+- **A** [trading-chart](https://github.com/mrzli-other/trading-chart) - _Trading chart implemented on a canvas._
 - **A** [tria](https://github.com/mrzli-other/tria) - _Game similar to Doodle Jump._
