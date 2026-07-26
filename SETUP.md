@@ -70,4 +70,4 @@ The script sends only `GET` requests to GitHub. It follows every pagination
 page, validates personal repository topics, includes archived repositories,
 and sorts the output by owner and repository name. Repositories with invalid
 or missing topics are reported in the terminal and placed in an
-`Invalid User Repos` section instead of a topic category.
+`Uncategorized User Repos` section instead of a topic category.

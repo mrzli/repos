@@ -30,7 +30,7 @@ export function createReadme(username, repositories, userRepositories) {
       '',
       '---',
       '',
-      '## Invalid User Repos',
+      '## Uncategorized User Repos',
       '',
       ...userRepositories.invalid.map(createRepositoryLine),
     );
