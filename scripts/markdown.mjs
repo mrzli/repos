@@ -125,6 +125,10 @@ function groupRepositoriesByOwner(repositories) {
 }
 
 function createPrimaryGroupLines(primaryGroups) {
+  if (primaryGroups.length === 0) {
+    return ['> No repositories.'];
+  }
+
   return primaryGroups.flatMap((primaryGroup, primaryIndex) => {
     const lines = [`### ${primaryGroup.primary}`, ''];
 
@@ -151,6 +155,11 @@ function createPrimaryGroupLines(primaryGroups) {
 function createOrganizationGroupLines(groups) {
   const lines = ['## Org Repos', ''];
 
+  if (groups.length === 0) {
+    lines.push('> No repositories.');
+    return lines;
+  }
+
   groups.forEach((group, index) => {
     lines.push(
       `### Org ('${group.owner}')`,
@@ -172,7 +181,7 @@ function createArchivedGroupLines(groups) {
     '',
     `### User ('${groups.user.owner}')`,
     '',
-    ...groups.user.repositories.map(createRepositoryLine),
+    ...createRepositoryLines(groups.user.repositories),
   ];
 
   for (const group of groups.organizations) {
@@ -187,6 +196,12 @@ function createArchivedGroupLines(groups) {
   }
 
   return lines;
+}
+
+function createRepositoryLines(repositories) {
+  return repositories.length === 0
+    ? ['> No repositories.']
+    : repositories.map(createRepositoryLine);
 }
 
 function createRepositoryLine(repo) {
