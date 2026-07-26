@@ -63,7 +63,7 @@ bun run generate
 You can also run the script directly with Node.js:
 
 ```bash
-node --env-file=.env.local github-repos.mjs
+node --env-file=.env.local scripts/generate-repos.mjs
 ```
 
 The script sends only `GET` requests to GitHub. It follows every pagination

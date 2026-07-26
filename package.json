@@ -1,6 +1,6 @@
 {
   "private": true,
   "scripts": {
-    "generate": "node --env-file=.env.local github-repos.mjs"
+    "generate": "node --env-file=.env.local scripts/generate-repos.mjs"
   }
 }
