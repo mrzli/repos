@@ -46,7 +46,21 @@ The `.env.local` file is ignored by Git.
 Node.js 20 or newer is recommended. No dependency installation or build step
 is required.
 
-Generate `README.md`:
+Generate `README.md` using any package runner:
+
+```bash
+npm run generate
+```
+
+```bash
+pnpm run generate
+```
+
+```bash
+bun run generate
+```
+
+You can also run the script directly with Node.js:
 
 ```bash
 node --env-file=.env.local github-repos.mjs
