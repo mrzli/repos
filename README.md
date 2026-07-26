@@ -80,7 +80,7 @@
 ### Setup
 
 - **P** [ansible](https://github.com/mrzli/ansible) - _Ansible config._
-- [archon](https://github.com/mrzli/archon) - _Development machine setup._
+- **P** [archon](https://github.com/mrzli/archon) - _Development machine setup._
 - **P** [dotfiles](https://github.com/mrzli/dotfiles) - _My dotfiles._
 
 ---
@@ -107,7 +107,6 @@
 - **P** [trading-experiments](https://github.com/mrzli/trading-experiments) - _Some scripts used for trading experiments._
 - [trading-fetch-eodhd](https://github.com/mrzli/trading-fetch-eodhd) - _Fetch trading data from EODHD._
 - **P** [trading-general-data](https://github.com/mrzli/trading-general-data) - _General data for trading._
-- [trading-web](https://github.com/mrzli/trading-web) - _Frontend for trading._
 - **P** [tradingview-data](https://github.com/mrzli/tradingview-data) - _Trading data from TradingView._
 
 ---
@@ -125,8 +124,6 @@
 - [racket](https://github.com/mrzli/racket) - _Racket examples._
 - **P** [racket-generator](https://github.com/mrzli/racket-generator) - _Code generator using racket (stub project for now)._
 - [rkt-generate-project](https://github.com/mrzli/rkt-generate-project) - &lt;NO-DESCRIPTION&gt;
-
----
 
 ---
 
@@ -158,10 +155,6 @@
 - [snippets-redux-observable](https://github.com/mrzli-vscode-extensions/snippets-redux-observable) - _Code snippets for redux-observable._
 - [snippets-special](https://github.com/mrzli-vscode-extensions/snippets-special) - _Special (specific) code snippets._
 - [snippets-typescript](https://github.com/mrzli-vscode-extensions/snippets-typescript) - _Code snippets for TypeScript._
-
----
-
----
 
 ---
 
@@ -227,3 +220,12 @@
 - **A** [suchyblocks](https://github.com/mrzli-other/suchyblocks) - _Clone of a very famous game._
 - **A** [trading-chart](https://github.com/mrzli-other/trading-chart) - _Trading chart implemented on a canvas._
 - **A** [tria](https://github.com/mrzli-other/tria) - _Game similar to Doodle Jump._
+
+---
+
+## Uncategorized User Repos
+
+- **P** [flashcards-be](https://github.com/mrzli/flashcards-be) - &lt;NO-DESCRIPTION&gt;
+- **P** [flashcards-be-old](https://github.com/mrzli/flashcards-be-old) - _Flash cards site (backend)._
+- **P** [flashcards-fe](https://github.com/mrzli/flashcards-fe) - _Flash cards site (frontend)._
+- [trading-web](https://github.com/mrzli/trading-web) - _Frontend for trading._
