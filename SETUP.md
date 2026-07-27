@@ -5,8 +5,9 @@ This script generates a repository inventory in `README.md` containing:
 - Repositories owned by your personal GitHub account.
 - Repositories owned by organizations where you are an owner.
 - Public, private, and internal repositories.
-- Repository names, owners, descriptions, topics, archive states, visibility
+- Repository names, owners, descriptions, archive states, visibility
   settings, and URLs.
+- Organizations without repositories, shown with `No repositories.`
 
 ## 1. Create a GitHub token
 
@@ -43,8 +44,8 @@ The `.env.local` file is ignored by Git.
 
 ## 3. Run the script
 
-Node.js 20 or newer is recommended. No dependency installation or build step
-is required.
+Node.js 20.6 or newer is required for `--env-file` support. No dependency
+installation or build step is required.
 
 Generate `README.md` using any package runner:
 
@@ -67,7 +68,17 @@ node --env-file=.env.local scripts/generate-repos.mjs
 ```
 
 The script sends only `GET` requests to GitHub. It follows every pagination
-page, validates personal repository topics, includes archived repositories,
-and sorts the output by owner and repository name. Repositories with invalid
-or missing topics are reported in the terminal and placed in an
-`Uncategorized User Repos` section instead of a topic category.
+page and includes archived repositories. The personal account appears first,
+followed by organizations sorted by name. Repositories are sorted by name
+within each owner. Every organization where your role is owner/admin is
+listed, including organizations that do not have any repositories.
+
+## Output markers
+
+Repository entries use these markers:
+
+- `A`: archived
+- `P`: private
+- `I`: internal
+
+Public, active repositories do not have a marker.

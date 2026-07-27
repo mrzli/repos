@@ -1,77 +1,31 @@
 # Repos
 
-## User Repos ('mrzli')
-
-### Docs
-
-- **P** [docs](https://github.com/mrzli/docs) - _Generic documents._
-- [repos](https://github.com/mrzli/repos) - _Links to my repos._
-
----
-
-### Setup
+## mrzli
 
 - **P** [archon](https://github.com/mrzli/archon) - _Development machine setup._
-
----
-
-### Templates
-
+- **P** [docs](https://github.com/mrzli/docs) - _Generic documents._
+- **P** [flashcards-be](https://github.com/mrzli/flashcards-be) - _Flash cards site (backend)._
+- **P** [flashcards-be-old](https://github.com/mrzli/flashcards-be-old) - _Flash cards site (backend)._
+- **P** [flashcards-fe](https://github.com/mrzli/flashcards-fe) - _Flash cards site (frontend)._
+- [mrzli.github.io](https://github.com/mrzli/mrzli.github.io) - _My CV site._
+- [repos](https://github.com/mrzli/repos) - _Links to my repos._
 - [template-react](https://github.com/mrzli/template-react) - _Template for setting up a React project using AI._
 
----
+## mrzli-courses (Org)
 
-### Sites
+> No repositories.
 
-- [mrzli.github.io](https://github.com/mrzli/mrzli.github.io) - _My CV site._
-
----
-
-## Org Repos
-
-### Org ('mrzli-gh-actions')
+## mrzli-gh-actions (Org)
 
 - [calculate-nx-affected-head-base](https://github.com/mrzli-gh-actions/calculate-nx-affected-head-base) - _Github action that calculates commits used for 'nx affected' command._
 - [deploy-to-surge](https://github.com/mrzli-gh-actions/deploy-to-surge) - _Deploy to surge._
 - [publish-vscode-extension](https://github.com/mrzli-gh-actions/publish-vscode-extension) - _Publish a VSCode Extension._
 
----
-
-### Org ('mrzli-trading')
-
-- [trading-chart](https://github.com/mrzli-trading/trading-chart) - _Trading chart._
-- [trading-data-server](https://github.com/mrzli-trading/trading-data-server) - _Server for trading data._
-- **P** [trading-experiments](https://github.com/mrzli-trading/trading-experiments) - _Some scripts used for trading experiments._
-- [trading-fetch-eodhd](https://github.com/mrzli-trading/trading-fetch-eodhd) - _Fetch trading data from EODHD._
-- **P** [trading-general-data](https://github.com/mrzli-trading/trading-general-data) - _General data for trading._
-- [trading-web](https://github.com/mrzli-trading/trading-web) - _Frontend for trading._
-- **P** [tradingview-data](https://github.com/mrzli-trading/tradingview-data) - _Trading data from TradingView._
-
----
-
-### Org ('mrzli-vscode-extensions')
-
-- [ep-js](https://github.com/mrzli-vscode-extensions/ep-js) - _JS Extension Pack._
-- [ep-snippets-js](https://github.com/mrzli-vscode-extensions/ep-snippets-js) - _JS Extension Pack._
-- [ep-vscode-tools](https://github.com/mrzli-vscode-extensions/ep-vscode-tools) - _VSCode Tools Extension Pack._
-- [snippets-jest](https://github.com/mrzli-vscode-extensions/snippets-jest) - _Code snippets for Jest._
-- [snippets-nestjs](https://github.com/mrzli-vscode-extensions/snippets-nestjs) - _Code snippets for NestJS._
-- [snippets-react](https://github.com/mrzli-vscode-extensions/snippets-react) - _Code snippets for React._
-- [snippets-redux-observable](https://github.com/mrzli-vscode-extensions/snippets-redux-observable) - _Code snippets for redux-observable._
-- [snippets-special](https://github.com/mrzli-vscode-extensions/snippets-special) - _Special (specific) code snippets._
-- [snippets-typescript](https://github.com/mrzli-vscode-extensions/snippets-typescript) - _Code snippets for TypeScript._
-
----
-
-## Archived Repos
-
-### User ('mrzli')
+## mrzli-jslib (Org)
 
 > No repositories.
 
----
-
-### Org ('mrzli-other')
+## mrzli-other (Org)
 
 - **A** **P** [ansible](https://github.com/mrzli-other/ansible) - _Ansible config._
 - **A** [apply-function](https://github.com/mrzli-other/apply-function) - _Just a simple function used to apply a transformation (function) to a value._
@@ -170,10 +124,24 @@
 - **A** [value-generators](https://github.com/mrzli-other/value-generators) - _Functions (or generators) for generating values, such as sequences._
 - **A** [value-transformers](https://github.com/mrzli-other/value-transformers) - _Value transformer (function) creators, to be used in value transformation chain._
 
----
+## mrzli-trading (Org)
 
-## Uncategorized User Repos
+- [trading-chart](https://github.com/mrzli-trading/trading-chart) - _Trading chart._
+- [trading-data-server](https://github.com/mrzli-trading/trading-data-server) - _Server for trading data._
+- **P** [trading-experiments](https://github.com/mrzli-trading/trading-experiments) - _Some scripts used for trading experiments._
+- [trading-fetch-eodhd](https://github.com/mrzli-trading/trading-fetch-eodhd) - _Fetch trading data from EODHD._
+- **P** [trading-general-data](https://github.com/mrzli-trading/trading-general-data) - _General data for trading._
+- [trading-web](https://github.com/mrzli-trading/trading-web) - _Frontend for trading._
+- **P** [tradingview-data](https://github.com/mrzli-trading/tradingview-data) - _Trading data from TradingView._
 
-- **P** [flashcards-be](https://github.com/mrzli/flashcards-be) - _Flash cards site (backend)._
-- **P** [flashcards-be-old](https://github.com/mrzli/flashcards-be-old) - _Flash cards site (backend)._
-- **P** [flashcards-fe](https://github.com/mrzli/flashcards-fe) - _Flash cards site (frontend)._
+## mrzli-vscode-extensions (Org)
+
+- [ep-js](https://github.com/mrzli-vscode-extensions/ep-js) - _JS Extension Pack._
+- [ep-snippets-js](https://github.com/mrzli-vscode-extensions/ep-snippets-js) - _JS Extension Pack._
+- [ep-vscode-tools](https://github.com/mrzli-vscode-extensions/ep-vscode-tools) - _VSCode Tools Extension Pack._
+- [snippets-jest](https://github.com/mrzli-vscode-extensions/snippets-jest) - _Code snippets for Jest._
+- [snippets-nestjs](https://github.com/mrzli-vscode-extensions/snippets-nestjs) - _Code snippets for NestJS._
+- [snippets-react](https://github.com/mrzli-vscode-extensions/snippets-react) - _Code snippets for React._
+- [snippets-redux-observable](https://github.com/mrzli-vscode-extensions/snippets-redux-observable) - _Code snippets for redux-observable._
+- [snippets-special](https://github.com/mrzli-vscode-extensions/snippets-special) - _Special (specific) code snippets._
+- [snippets-typescript](https://github.com/mrzli-vscode-extensions/snippets-typescript) - _Code snippets for TypeScript._

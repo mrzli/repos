@@ -1,9 +1,5 @@
 import { writeFile } from 'node:fs/promises';
 import { loadRepositoryData } from './github-api.mjs';
-import {
-  reportValidationErrors,
-  validateActiveUserRepositories,
-} from './validation.mjs';
 import { createReadme } from './markdown.mjs';
 
 const OUTPUT_PATH = 'README.md';
@@ -17,15 +13,9 @@ async function main() {
     );
   }
 
-  const { username, repositories } = await loadRepositoryData(token);
-  const userRepositories = validateActiveUserRepositories(
-    username,
-    repositories,
-  );
-
-  reportValidationErrors(userRepositories.errors);
-
-  const markdown = createReadme(username, repositories, userRepositories);
+  const { username, organizations, repositories } =
+    await loadRepositoryData(token);
+  const markdown = createReadme(username, organizations, repositories);
   await writeFile(OUTPUT_PATH, markdown, 'utf8');
 
   console.error(`Wrote ${OUTPUT_PATH} with ${repositories.length} repositories.`);

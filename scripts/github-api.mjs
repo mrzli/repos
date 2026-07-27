@@ -19,10 +19,12 @@ export async function loadRepositoryData(token) {
     '/user/repos?affiliation=owner&visibility=all',
     token,
   );
-  const organizationRepositories = await loadOrganizationRepositories(token);
+  const { organizations, repositories: organizationRepositories } =
+    await loadOrganizationData(token);
 
   return {
     username: user.login,
+    organizations,
     repositories: mergeRepositories(
       personalRepositories,
       organizationRepositories,
@@ -30,7 +32,7 @@ export async function loadRepositoryData(token) {
   };
 }
 
-async function loadOrganizationRepositories(token) {
+async function loadOrganizationData(token) {
   const memberships = await fetchAll(
     '/user/memberships/orgs?state=active',
     token,
@@ -38,6 +40,7 @@ async function loadOrganizationRepositories(token) {
   const ownedOrganizations = memberships.filter(
     (membership) => membership.role === 'admin',
   );
+  const organizations = [];
   const organizationRepositories = [];
 
   for (const membership of ownedOrganizations) {
@@ -49,6 +52,8 @@ async function loadOrganizationRepositories(token) {
       );
     }
 
+    organizations.push(organization);
+
     const repositories = await fetchAll(
       `/orgs/${encodeURIComponent(organization)}/repos?type=all`,
       token,
@@ -57,19 +62,24 @@ async function loadOrganizationRepositories(token) {
     organizationRepositories.push(...repositories);
   }
 
-  return organizationRepositories;
+  return {
+    organizations: organizations.sort((left, right) =>
+      left.localeCompare(right),
+    ),
+    repositories: organizationRepositories,
+  };
 }
 
 function mergeRepositories(personalRepositories, organizationRepositories) {
   const repositoriesById = new Map();
 
   for (const repo of personalRepositories) {
-    const normalized = normalizeRepository(repo, 'user');
+    const normalized = normalizeRepository(repo);
     repositoriesById.set(normalized.id, normalized);
   }
 
   for (const repo of organizationRepositories) {
-    const normalized = normalizeRepository(repo, 'organization');
+    const normalized = normalizeRepository(repo);
     repositoriesById.set(normalized.id, normalized);
   }
 
