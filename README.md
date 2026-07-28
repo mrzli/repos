@@ -7,9 +7,9 @@
 - **P** [flashcards-be](https://github.com/mrzli/flashcards-be) - _Flash cards site (backend)._
 - **P** [flashcards-be-old](https://github.com/mrzli/flashcards-be-old) - _Flash cards site (backend)._
 - **P** [flashcards-fe](https://github.com/mrzli/flashcards-fe) - _Flash cards site (frontend)._
+- [js-templates](https://github.com/mrzli/js-templates) - _Template for setting up a React project using AI._
 - [mrzli.github.io](https://github.com/mrzli/mrzli.github.io) - _My CV site._
 - [repos](https://github.com/mrzli/repos) - _Links to my repos._
-- [template-react](https://github.com/mrzli/template-react) - _Template for setting up a React project using AI._
 
 ## mrzli-courses (Org)
 
@@ -23,7 +23,7 @@
 
 ## mrzli-jslib (Org)
 
-> No repositories.
+- [assert](https://github.com/mrzli-jslib/assert) - _Assert library._
 
 ## mrzli-other (Org)
 
