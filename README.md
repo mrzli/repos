@@ -24,6 +24,7 @@
 ## mrzli-jslib (Org)
 
 - [assert](https://github.com/mrzli-jslib/assert) - _Assert library._
+- [generic-types](https://github.com/mrzli-jslib/generic-types) - _Generic typescript types._
 - [numeric](https://github.com/mrzli-jslib/numeric) - _Number-related utility functions._
 
 ## mrzli-other (Org)
