@@ -1,5 +1,9 @@
 # Repos
 
+My repositories, grouped by account and organization.
+
+**A** = archived, **P** = private. Private repository links require access and will not be accessible to visitors.
+
 ## mrzli
 
 - **P** [archon](https://github.com/mrzli/archon) - _Development machine setup._
@@ -8,8 +12,10 @@
 - **P** [flashcards-be-old](https://github.com/mrzli/flashcards-be-old) - _Flash cards site (backend)._
 - **P** [flashcards-fe](https://github.com/mrzli/flashcards-fe) - _Flash cards site (frontend)._
 - [js-templates](https://github.com/mrzli/js-templates) - _Template for setting up a React project using AI._
+- **P** [learning](https://github.com/mrzli/learning) - _Repo for learning._
 - [mrzli.github.io](https://github.com/mrzli/mrzli.github.io) - _My CV site._
 - [repos](https://github.com/mrzli/repos) - _Links to my repos._
+- **P** [skills](https://github.com/mrzli/skills) - _Agent skills._
 
 ## mrzli-courses (Org)
 

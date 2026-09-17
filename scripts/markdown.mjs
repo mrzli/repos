@@ -4,6 +4,10 @@ export function createReadme(username, organizations, repositories) {
   const lines = [
     '# Repos',
     '',
+    'My repositories, grouped by account and organization.',
+    '',
+    '**A** = archived, **P** = private. Private repository links require access and will not be accessible to visitors.',
+    '',
     ...createOwnerLines(username, repositories, false),
   ];
 
