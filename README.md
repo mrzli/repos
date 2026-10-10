@@ -9,11 +9,12 @@ My repositories, grouped by account and organization.
 - **P** [archon](https://github.com/mrzli/archon) - _Development machine setup._
 - **P** [docs](https://github.com/mrzli/docs) - _Generic documents._
 - **P** [flashcards-be](https://github.com/mrzli/flashcards-be) - _Flash cards site (backend)._
-- **P** [flashcards-be-old](https://github.com/mrzli/flashcards-be-old) - _Flash cards site (backend)._
 - **P** [flashcards-fe](https://github.com/mrzli/flashcards-fe) - _Flash cards site (frontend)._
 - [js-templates](https://github.com/mrzli/js-templates) - _Template for setting up a React project using AI._
 - **P** [learning](https://github.com/mrzli/learning) - _Repo for learning._
 - [mrzli.github.io](https://github.com/mrzli/mrzli.github.io) - _My CV site._
+- **P** [omarchy-lab](https://github.com/mrzli/omarchy-lab) - _Experimenting with Omarchy desktop apps._
+- **P** [qt-market-chart](https://github.com/mrzli/qt-market-chart) - _Market chart._
 - [repos](https://github.com/mrzli/repos) - _Links to my repos._
 - **P** [skills](https://github.com/mrzli/skills) - _Agent skills._
 
@@ -121,7 +122,8 @@ My repositories, grouped by account and organization.
 - **A** [test-util](https://github.com/mrzli-other/test-util) - _Test utilities._
 - **A** [trade-breakout-display-cli](https://github.com/mrzli-other/trade-breakout-display-cli) - _Displays breakout results based on data._
 - **A** **P** [trading](https://github.com/mrzli-other/trading) - _Trading monorepo._
-- **A** [trading-chart](https://github.com/mrzli-other/trading-chart) - _Trading chart implemented on a canvas._
+- **A** [trading-chart-old1](https://github.com/mrzli-other/trading-chart-old1) - _Trading chart._
+- **A** [trading-chart-old2](https://github.com/mrzli-other/trading-chart-old2) - _Trading chart implemented on a canvas._
 - **A** **P** [trading-data-server-old](https://github.com/mrzli-other/trading-data-server-old) - _Server for trading data._
 - **A** **P** [trading-tools-old](https://github.com/mrzli-other/trading-tools-old) - _Tools used in relation to trading._
 - **A** **P** [trading-tools-old2](https://github.com/mrzli-other/trading-tools-old2) - _Various tools for trading_
@@ -134,13 +136,9 @@ My repositories, grouped by account and organization.
 
 ## mrzli-trading (Org)
 
-- [trading-chart](https://github.com/mrzli-trading/trading-chart) - _Trading chart._
-- [trading-data-server](https://github.com/mrzli-trading/trading-data-server) - _Server for trading data._
 - **P** [trading-experiments](https://github.com/mrzli-trading/trading-experiments) - _Some scripts used for trading experiments._
 - [trading-fetch-eodhd](https://github.com/mrzli-trading/trading-fetch-eodhd) - _Fetch trading data from EODHD._
 - **P** [trading-general-data](https://github.com/mrzli-trading/trading-general-data) - _General data for trading._
-- [trading-web](https://github.com/mrzli-trading/trading-web) - _Frontend for trading._
-- **P** [tradingview-data](https://github.com/mrzli-trading/tradingview-data) - _Trading data from TradingView._
 
 ## mrzli-vscode-extensions (Org)
 
