@@ -6,7 +6,7 @@ My repositories, grouped by account and organization.
 
 ## mrzli
 
-- **P** [archon](https://github.com/mrzli/archon) - _Development machine setup._
+- [archon](https://github.com/mrzli/archon) - _Development machine setup._
 - **P** [docs](https://github.com/mrzli/docs) - _Generic documents._
 - **P** [flashcards-be](https://github.com/mrzli/flashcards-be) - _Flash cards site (backend)._
 - **P** [flashcards-fe](https://github.com/mrzli/flashcards-fe) - _Flash cards site (frontend)._
@@ -14,9 +14,9 @@ My repositories, grouped by account and organization.
 - **P** [learning](https://github.com/mrzli/learning) - _Repo for learning._
 - [mrzli.github.io](https://github.com/mrzli/mrzli.github.io) - _My CV site._
 - **P** [omarchy-lab](https://github.com/mrzli/omarchy-lab) - _Experimenting with Omarchy desktop apps._
-- **P** [qt-market-chart](https://github.com/mrzli/qt-market-chart) - _Market chart._
 - [repos](https://github.com/mrzli/repos) - _Links to my repos._
-- **P** [skills](https://github.com/mrzli/skills) - _Agent skills._
+- [skills](https://github.com/mrzli/skills) - _Agent skills._
+- **P** [trading-app](https://github.com/mrzli/trading-app) - _Market chart._
 
 ## mrzli-courses (Org)
 
@@ -125,6 +125,7 @@ My repositories, grouped by account and organization.
 - **A** [trading-chart-old1](https://github.com/mrzli-other/trading-chart-old1) - _Trading chart._
 - **A** [trading-chart-old2](https://github.com/mrzli-other/trading-chart-old2) - _Trading chart implemented on a canvas._
 - **A** **P** [trading-data-server-old](https://github.com/mrzli-other/trading-data-server-old) - _Server for trading data._
+- **A** [trading-fetch-eodhd](https://github.com/mrzli-other/trading-fetch-eodhd) - _Fetch trading data from EODHD._
 - **A** **P** [trading-tools-old](https://github.com/mrzli-other/trading-tools-old) - _Tools used in relation to trading._
 - **A** **P** [trading-tools-old2](https://github.com/mrzli-other/trading-tools-old2) - _Various tools for trading_
 - **A** [tria](https://github.com/mrzli-other/tria) - _Game similar to Doodle Jump._
@@ -137,7 +138,6 @@ My repositories, grouped by account and organization.
 ## mrzli-trading (Org)
 
 - **P** [trading-experiments](https://github.com/mrzli-trading/trading-experiments) - _Some scripts used for trading experiments._
-- [trading-fetch-eodhd](https://github.com/mrzli-trading/trading-fetch-eodhd) - _Fetch trading data from EODHD._
 - **P** [trading-general-data](https://github.com/mrzli-trading/trading-general-data) - _General data for trading._
 
 ## mrzli-vscode-extensions (Org)
