@@ -17,6 +17,7 @@ My repositories, grouped by account and organization.
 - [repos](https://github.com/mrzli/repos) - _Links to my repos._
 - [skills](https://github.com/mrzli/skills) - _Agent skills._
 - **P** [trading-app](https://github.com/mrzli/trading-app) - _Market chart._
+- **P** [trading-lab](https://github.com/mrzli/trading-lab) - _Prototypes for exploring trading ideas beside the trading app_
 
 ## mrzli-courses (Org)
 
